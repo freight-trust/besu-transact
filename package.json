@@ -1,5 +1,5 @@
 {
-  "name": "freight-trust/besu-tx",
+  "name": "@fr8/besu-tx",
   "version": "0.1.3",
   "description": "Besu Transactions",
   "scripts": {
